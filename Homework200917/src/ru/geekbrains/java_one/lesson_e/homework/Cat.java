@@ -17,6 +17,7 @@ public class Cat extends Animal {
         }
     }
 
+
     @Override
     void swim(int b) {
         if (b > 0) {

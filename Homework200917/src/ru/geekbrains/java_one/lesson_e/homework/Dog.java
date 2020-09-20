@@ -18,6 +18,7 @@ float jumplimit = 0.5f;
         }
     }
 
+
     @Override
     void swim(int b) {
         if (b < this.swimlimit) {

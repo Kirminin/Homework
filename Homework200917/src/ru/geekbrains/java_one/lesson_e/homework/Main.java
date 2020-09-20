@@ -5,6 +5,7 @@ public class Main {
         Cat c = new Cat("Barseek", "White", 3);
         Dog d = new Dog("Toozeek", "Black", 5);
 
+
         d.run(150);
         d.swim(10);
         d.jump(1);

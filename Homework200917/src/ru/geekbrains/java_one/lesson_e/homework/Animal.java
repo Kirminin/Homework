@@ -12,6 +12,7 @@ public abstract class Animal {
         this.age = age;
     }
 
+
     abstract void run(int a);
     abstract void swim(int b);
     abstract void jump(int c);
